@@ -298,3 +298,5 @@ cast call $TARGET "admin()" -r $RPC
 ```
 
 Et voila challenge finit, ce challenge nous fait bien comprendre la dangerosite des delegate call et l'importance de bien penser au layers de storage quand on code un smartcontrat
+
+Vous pouvez lancer le exploit.sh pour resoudre ce challenge.
